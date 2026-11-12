@@ -1,6 +1,6 @@
 # 🌿 Zokora – Plataforma Web de Bienestar y Estilo de Vida
 
-**Zokora** es una aplicación web dinámica orientada a la gestión de rutinas saludables, bienestar personal y recursos bibliográficos en formato PDF. El proyecto ha sido completamente rediseñado y migrado desde una estructura estática (`.html`) hacia una arquitectura robusta basada en **PHP, MySQL y JavaScript**.
+**Zokora** es una aplicación web dinámica orientada a la gestión de rutinas de gimnasio para mujeres en formato PDF. El proyecto ha sido completamente rediseñado y migrado desde una estructura estática (`.html`) hacia una arquitectura robusta basada en **PHP, MySQL y JavaScript**.
 
 ---
 
