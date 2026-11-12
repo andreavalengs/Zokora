@@ -79,7 +79,4 @@ $database = "zokora";
 
 4. Inicia los servicios de Apache y MySQL en tu entorno local e ingresa en el navegador a:
 `http://localhost/tu-ruta/ZOKORA/index.php`
-
-```
-
 ---
